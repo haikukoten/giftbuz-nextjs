@@ -50,7 +50,7 @@ export default function Home() {
       {/* Main Content */}
       <section className="container mx-auto px-4">
         <h1 className="text-center text-4xl font-medium mb-6 text-gray-900">
-          At GiftBuzz, we do all kinds of custom work!
+          At GiftBuzzz, we do all kinds of custom work!
         </h1>
         <p className="text-center text-gray-600 max-w-3xl mx-auto mb-16">
           Your one-stop destination for personalized gifting solutions! Based in
